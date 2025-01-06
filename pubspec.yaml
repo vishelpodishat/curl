@@ -1,4 +1,4 @@
-name: curl
+name: to_curl
 description: Generate output equivalent to the "copy as curl" option with HTTP client debugger.
 version: 1.0.0
 homepage: https://github.com/kiruto/curl
